@@ -3,6 +3,7 @@ title: "Teacher assistant"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
 venue: " Buenos Aires University - Physics Department."
-date: 2022
+#date: 2022
 location: "Buenos Aires, Ar"
 ---
+From 2022 to 2024
