@@ -11,7 +11,7 @@ Hey! I'm a physicist pursuing a PhD in experimental neuroscience at Buenos Aires
 
 I got my degree in Physics from the Buenos Aires University (UBA). During the pandemic I worked on computational models of the neural networks that guide navigation in rodents, the so-called 'GPS of the brain' for the local equivalent of a master's degree. Nevertheless, I had always wanted to do experiments combined with big data analyses, for which I enrolled in a PhD program in 2021 at UBA to explore how memories are formed in rodent brains in tandem with their behavior. Here we hypothesize that encoding is modulated by the demand for pattern separation in the DG-CA3 circuit. To explore this possibility, I perform calcium imaging recordings in the CA3 brain region on freely behaving mice with a [UCLA Miniscope](https://github.com/Aharoni-Lab/Miniscope-v4) (an open source tool!) in a behavioral task that requires pattern separation.I have a very deep interest in the intersection of neuroscience, artificial intelligence and big data analytics and I am eager to bridge these disciplines.
 
-<img src='/images/michi.png' class="align-center" width="150" height="200">
+<img src='/images/michi.png' class="align-center" width="200" height="250">
 
 <!---
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
